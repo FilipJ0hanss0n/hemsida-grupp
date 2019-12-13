@@ -1,0 +1,66 @@
+nav{
+	background-color:grey;
+	font-size:50px;
+	color:white;
+	font-family:arial;
+	
+}
+.s {
+	text-align:left;
+}
+
+
+.b {
+	padding-right
+}
+
+
+.o {
+	text-align:center;
+}
+
+
+.p1{
+	text-align:left;
+	font-family:arial;
+	font-size:30px;
+}
+
+.p2{
+	text-align:center;
+}
+
+	
+td{
+		font-size:30px;
+}
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: black;
+ 
+}
+.grid-item {
+  color:white;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  
+.hund {
+	display:block;
+    margin-left:auto;
+    margin-right:auto;	
+}
+
+.hund1 {
+	display:block;
+	margin-center;
+}
+	
+.hund2 {
+	display:block;
+	margin-right;
+}	
